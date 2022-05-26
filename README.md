@@ -16,5 +16,5 @@ WEATHER_API=[Weather-api-key ]
 ```
 Chat Bot Command:
 <p align="center">
-  <img src="./cover.jpg"/>
+  <img src="./cover.png"/>
 </p>
