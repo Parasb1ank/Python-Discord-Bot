@@ -8,9 +8,13 @@ You will also need to install ffmpeg in order for the bot to stream music. Find 
 
 
 Meme api:https://meme-api.herokuapp.com/gimme
-
-.env file config:
+Weather API:
+.env file config:https://openweathermap.org/
 ```bash
 BOT_TOKEN=[Your-Bot-Token]
-WEATHER_API=[Weather-api-key Obtained from https://openweathermap.org/]
+WEATHER_API=[Weather-api-key ]
 ```
+Chat Bot Command:
+<p align="center">
+  <img src="./cover.jpg"/>
+</p>
