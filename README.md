@@ -2,4 +2,5 @@
 
 Installing Dependencies:
 '''bash
-pip3 install youtube_dl
+pip3 install youtube_dl requests
+'''
