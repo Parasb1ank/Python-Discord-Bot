@@ -1,6 +1,6 @@
 # Python-Discord-Bot
 
 Installing Dependencies:
-'''bash
-pip3 install youtube_dl requests
-'''
+```bash
+pip3 install youtube_dl requests  discord.py
+```
